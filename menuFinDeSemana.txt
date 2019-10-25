@@ -7,6 +7,7 @@ Paella de Marisco
 Tercer plato
 Postre
 cafe
+precio 12 euros
 
 
 
