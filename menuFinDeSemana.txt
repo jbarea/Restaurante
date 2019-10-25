@@ -13,5 +13,5 @@ servicio incluido
 precio 12 euros
 
 Descuento de fin de semana menores de edad
-
+Otros descuentos
 
