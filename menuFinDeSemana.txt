@@ -1,5 +1,5 @@
 Primer plato
-Entremes
+Ensalada
 
 Segundo Plato
 Paella de Marisco
@@ -12,6 +12,6 @@ servicio incluido
 
 precio 12 euros
 
-Descuento de fin de semana menores de edad
+
 
 
